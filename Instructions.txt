@@ -1,0 +1,138 @@
+1. In your file manager, make a new folder inside of your development directory called Paris. Inside of that folder, create a new HTML file called index.html. Open index.html in your text editor.
+
+2. In index.html, add the basic code for a website to be structured properly (also called boilerplate code).
+Stuck? Get a hint
+
+3. Title your website: My Travel Blog
+Stuck? Get a hint
+
+4. Directly below the opening <body> tag of your index.html file, add an <h1> that says My Travels. Below that, add an <h2> that says Paris. Below that, add an <h3> that says September 2016.
+
+5. Below the <h3> element that says September 2016, add opening and closing <nav> tags. Do not add any content between them right now.
+
+6. Below the <nav> element you just created, create 3 new sections using the <div> tag. Give them the following ids, respectively:
+
+highlights
+story
+contact
+Remember, <div>s structure your content, and the ids can be used to link within a page.
+Stuck? Get a hint
+
+7. Nest an <h3> inside the highlights <div>. The heading should say: My Favorite Spots in Paris.
+
+8. Nest an <h2> inside the story <div>. The heading should say:
+
+A Weekend on the Seine.
+
+9. Below that, add three <h4>s that say Day 1, Day 2, and Day 3.
+
+Give each opening tag an id that we will later use for same-page navigation. The first <h4> should have an id with a value of day1 and the other two should have ids that follow the same pattern.
+
+10. Nest an <h4> inside of the contact <div>. The heading should say:
+
+If you have any questions about my blog, here is my contact information:
+
+11. Now that you have organized your webpage, preview it in the browser to see how much you've accomplished! Every few steps, refresh the page to make sure that your work looks the way you expect it to and to see the changes you're making!
+
+Click here to see what your website should look like!
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/travel-blog/index2.html
+
+12. Now you are going to construct the navigation bar for your page. Inside of the <nav> tag under the heading that says September 2016, nest an unordered list with these 3 list items:
+
+Highlights
+Full Story
+Contact
+
+Make each list item a same-page link to its respective section, using the <a> tag.
+Stuck? Get a hint
+
+13. Under Full Story, add an ordered list with these 3 list items:
+
+Day 1
+Day 2
+Day 3
+Make each list item a link to its respective day on the blog, using the <a> tag.
+Stuck? Get a hint
+
+14. Now that you've structured your navigation, this is a great time to preview your page in the browser!
+
+Click here to see what your page should look like now!
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/travel-blog/index3.html
+
+15. Now you're going to add information about your trip to Paris! Below the heading that says My Favorite Spots in Paris, create an unordered list with the following list items:
+
+The Eiffel Tower
+The Louvre
+Jardin du Luxembourg
+Palais Garnier
+
+16. Below the list, add a paragraph with the following text:
+
+Click here to learn more about Paris!
+Turn here into a link that goes to:
+
+https://en.wikipedia.org/wiki/Paris
+Add the target attribute with the appropriate value to your link so that the article opens in a new page or tab.
+Stuck? Get a hint
+
+17. Directly below the heading A Weekend on the Seine, add a paragraph with this text:
+
+I was lucky enough to spend three days visiting Paris this month! I went with a friend and we were able to see many things while we were there!
+
+18. Below Day 1, add a paragraph with the following text:
+
+On our first day, we started by visiting Montmartre right away. Our second stop was the Eiffel Tower (check out that beautiful picture!) We ate dinner at a cute little bistro overlooking la Seine.
+Emphasize the following French words:
+
+Montmartre
+la Seine
+Stuck? Get a hint
+
+19. Below Day 2, add a paragraph with this text:
+
+On our second day, we went shopping on Avenue des Champs Elysees. Every single person we saw was dressed in the height of fashion.
+
+After we finished shopping, we visited some really beautiful places! We went to Notre Dame. We went on a macaron tour of Paris and ate all of the best macarons the city had to offer. After we finished shopping, we visited le Louvre.
+Emphasize the following French words:
+
+Avenue des Champs Elysees
+Notre Dame
+le Louvre
+Add two breaks in between the 2nd and 3rd sentences.
+Stuck? Get a hint
+
+20. Below `Day 3', add a paragraph with the following text:
+
+The picture below is of me visiting the Arc de Triomphe. It's huge! We also went to le Musee D'Orsay. Seeing the work of Renoir, Monet, and Van Gogh in person was completely breathtaking. I was surprised to see that the museum also had many sculptures including those by Auguste Rodin, Paul Gauguin, and Alfred Barye.
+Emphasize the following French words:
+
+Arc de Triomphe
+le Musee D'Orsay
+
+21. Now that you've added the text, take a minute to preview your work in the browser.
+
+Click here to see what your project should look like now!
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/travel-blog/index4.html
+
+22. Below the paragraph for each day, add these images (in order):
+
+Day 1
+
+Day 2
+
+Day 3
+Stuck? Get a hint
+
+23. Inside the contact <div>, nest a paragraph with the following text:
+
+email: contact@mytravels.com | phone: 917-555-1098 | address: 371 284th St, New York, NY, 10001
+Make the following words and the colons that follow them strong using the <strong> tag:
+
+email
+phone
+address
+
+24. Congratulations! You've finished your website! Preview it in the browser!
+
+Click here to see what it should look like now!
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/travel-blog/index.html
